@@ -1,0 +1,72 @@
+[
+    {
+        "id":"23",
+        "metroArea":"1007",
+        "projectName":"Edgewater",
+        "productId":"980",
+        "productName":"The Davis"
+    },
+    {
+        "id":"23",
+        "metroArea":"1007",
+        "projectName":"Edgewater",
+        "productId":"E15",
+        "productName":"The Amelia"
+    },
+    {
+        "id":"23",
+        "metroArea":"1007",
+        "projectName":"Edgewater",
+        "productId":"Y54",
+        "productName":"The Lockwood"
+    },
+    {
+        "id":"23",
+        "metroArea":"1007",
+        "projectName":"Edgewater",
+        "productId":"Y58",
+        "productName":"The Prescott"
+    },
+    {
+        "id":"25",
+        "metroArea":"1007",
+        "projectName":"Inwood",
+        "productId":"1562",
+        "productName":"The Dupree"
+    },
+    {
+        "id":"41",
+        "metroArea":"1008",
+        "projectName":"Est Bowen Village",
+        "productId":"1601",
+        "productName":"The Stono"
+    },
+    {
+        "id":"41",
+        "metroArea":"1008",
+        "projectName":"Est Bowen Village",
+        "productId":"U68",
+        "productName":"The Moultrie"
+    },
+    {
+        "id":"43",
+        "metroArea":"1008",
+        "projectName":"Mixson",
+        "productId":"1674",
+        "productName":"The Stella"
+    },
+    {
+        "id":"47",
+        "metroArea":"1008",
+        "projectName":"Oldfield",
+        "productId":"1665",
+        "productName":"The Tidalview"
+    },
+    {
+        "id":"47",
+        "metroArea":"1008",
+        "projectName":"Oldfield",
+        "productId":"Null",
+        "productName":"Null"
+    }
+]
