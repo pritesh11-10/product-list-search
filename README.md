@@ -1,6 +1,6 @@
 # Product List Search
 
-The Product List Search is a React application that allows users to search and filter a list of products based on various attributes. It provides a user-friendly interface for searching products and displaying the filtered results. The application is deployed on cloud platform vercel
+The Product List Search is a React application styled with TailwindCSS that allows users to search and filter a list of products based on various attributes. It provides a user-friendly interface for searching products and displaying the filtered results. The application is deployed on cloud platform vercel
 
 ## Product List Search URL
 
